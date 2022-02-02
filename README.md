@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-tool
+
+####Languages
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Android&logoColor=white"/>
+
+###Tool
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=Android&logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=constmine)](https://github.com/anuraghazra/github-readme-stats)
