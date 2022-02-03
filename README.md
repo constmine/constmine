@@ -5,7 +5,11 @@ I made mincraft plugin.
 Minecraft Version : 1. 18. 1
 Java Version : 17.0.1
 
-Skills: Java
+Skills: 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
+Tool:
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 
 - 🔭 I’m currently working on minecraft 
 - 🌱 I’m currently learning Java 
